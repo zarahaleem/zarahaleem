@@ -1,5 +1,14 @@
-### Hi iiwiw👋
+### My repository
 
+Hello!
+
+My name is **Zara**. I am 14 years old and I take Computer Science. This is my first time trying coding and I am very excited to learn more.
+
+**some fun facts about me-**
+
+- I am in 9th grade
+- My favourite colour is green
+- 
 <!--
 **zarahaleem/zarahaleem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
