@@ -2,7 +2,7 @@
 
 *Hello*!
 
-My name is **Zara**. I am 14 years old and I take Computer Science. I took this class because I wanted to learn more about programming etc. This is my first time trying coding and I am very excited to learn more.
+My name is **Zara**. I am 14 years old and I take Computer Science. I took this class because I wanted to learn more about programming, etc. This is my first time trying coding and I am very excited to learn more.
 
 **Some fun facts about me!**
 
