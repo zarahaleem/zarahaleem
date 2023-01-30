@@ -1,5 +1,5 @@
-## *Xerox Alto*
+## *iBook Classic*
 
 
----
-![xerox alto](https://static.righto.com/images/alto/alto.jpg)
+
+
