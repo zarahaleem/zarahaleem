@@ -5,7 +5,7 @@
 
 *Hello*!
 
-My name is **Zara**. I am 14 years old and I take Computer Science. I took this class because I wanted to learn more about programming, etc. This is my first time trying coding and I am very excited to learn more.
+My name is **Zara**. I am 14 years old and I am taking Computer Science. I took this class because I wanted to learn more about programming, etc. This is my first time trying coding and I am very excited to learn more.
 
 ***
 
@@ -13,25 +13,8 @@ My name is **Zara**. I am 14 years old and I take Computer Science. I took this 
 ```
 - My favourite colour is blue
 - I am in 9th grade
-- Lions are my favourite animals
+- Cats are my favourite animals
 - I love reading
 ```
 
-![Liom](https://www.gannett-cdn.com/media/2022/03/16/USATODAY/usatsports/imageForEntry5-ODq.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp)
-
-
-<!--
-**zarahaleem/zarahaleem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+![Picture of a Cat](https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187.jpg?w=636&h=424)
